@@ -13,7 +13,13 @@ code {
     monospace;
 }
 
-.title {
+.title,
+.listItems {
   color: rgb(221, 212, 212);
   text-align: center;
+}
+
+ul {
+  text-align: center;
+  list-style-position: inside; 
 }
