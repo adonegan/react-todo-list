@@ -23,3 +23,8 @@ ul {
   text-align: center;
   list-style-position: inside; 
 }
+
+form {
+  text-align: center;
+  color: white;
+}
